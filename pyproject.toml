@@ -63,7 +63,8 @@ test = [
     "sonpy",
     "pynwb",
     "probeinterface",
-    "joblib>=1.0.0"
+    "joblib>=1.0.0",
+    "scipy"
 ]
 
 docs = [
